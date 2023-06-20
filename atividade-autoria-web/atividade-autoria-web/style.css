@@ -1,0 +1,22 @@
+
+
+.instagram {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    border: 2px solid gray ;
+  
+}
+
+img {
+    height: 90px;
+    width: 90px;
+    margin-top: 5px;
+    border-radius: 50%;
+}
+
+.thh{
+    padding-left: 100px;
+    
+}
